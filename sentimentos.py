@@ -6,7 +6,7 @@ from ibm_watson.natural_language_understanding_v1 import Features, EntitiesOptio
 
 
 url_api = 'https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/8358a9cb-b7e2-46a1-832f-7452ff63d082'
-api_key = '2xDdcc0s8RvOJmQjfgkMZuepL-wjt-4_51w0eAaXBcXi'
+api_key = 'yourAPi'
 
 analise_text = '''Desde o início, a diretoria do Nacional não se mostrou disposta a fazer negócio com o Palmeiras. O principal argumento dos colombianos era a pendência que ainda existe da contratação do atacante Borja, em 2017, fato que é contestado pelo clube brasileiro.
 Em fevereiro, o presidente Juan David Pérez deu uma entrevista declarando que não venderia Muñoz ao Palmeiras por conta desse motivo. Ele chegou a dizer que "aqui não se castra um cachorro duas vezes", em referência ao imbróglio envolvendo a negociação de Borja.
